@@ -7,13 +7,20 @@ Primarily, the application facilitates user-to-user communication through chat f
 ## How we built it
 We opted for a Next.js application coupled with React.js and TypeScript to build the front end, ensuring a robust and dynamic user interface. The seamless integration of these technologies allowed us to create a responsive and user-friendly experience.
 
+## Application Snapshots
+
+## Landing
+
+#### This is the landing page (can toggle between light and dark modes)
+![landing proscenium](https://github.com/anonymousknight07/proscenium/assets/68043860/046303e3-17fd-44a0-831d-41bb7399c0fb)
+
+#### Chat interface for people depending on the language they choose
+![dual](https://github.com/anonymousknight07/proscenium/assets/68043860/58efb733-651f-4aeb-9904-02cade61ae10)
+
+
+
+
 On the backend, we harnessed the capabilities of Firebase, employing its versatile features to handle data storage, authentication, and other essential functionalities. The use of Firebase not only streamlined the development process but also ensured a scalable and secure foundation for our application.
-
-## Accomplishments that we're proud of
-We take pride in successfully bridging a significant gap that once hindered communication between individuals of different languages. By empowering users to communicate seamlessly, we've reduced their dependency on others for translation assistance. Our efforts have not only facilitated linguistic inclusivity but also aimed to instil confidence in individuals, enabling them to express themselves more freely and connect with others across language barriers. This achievement reflects our commitment to fostering a more interconnected and confident global community.
-
-## What we learned
-In terms of technical expertise, our team significantly enhanced proficiency within the chosen technology stack during the development of this application. Beyond the technical realm, the experience illuminated a valuable lesson on the power of empathy and keen observation in problem-solving. Recognizing and understanding individuals' challenges paved the way for the creation of both a remarkable technological solution and a tangible real-life impact. This dual perspective underscores the importance of combining technical prowess with a human-centric approach, ultimately leading to innovative and meaningful outcomes.
 
 ## What's next for Proscenium 
 Our commitment to advancing this application remains unwavering. We believe there is an exciting path ahead, exploring various directions to enhance its capabilities. A few of our prospective plans include:
