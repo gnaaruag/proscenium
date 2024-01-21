@@ -1,11 +1,61 @@
-## Inspiration
-The origin of this concept stemmed from the observations of our team member, Akshat Pandey. He noticed the prevalent challenge wherein individuals frequently find themselves unable to respond to messages due to language barriers. In response to this dilemma, we devised an application designed to alleviate this burden for users. This solution empowers individuals to interact effortlessly in the language they feel most comfortable with, relieving them of the constraints imposed by linguistic differences.
+# Proscenium 
 
-## What it does
-Primarily, the application facilitates user-to-user communication through chat functionality. What sets it apart is its unique feature allowing users to send messages in their preferred language, while ensuring that the recipient receives the message seamlessly translated into their language. This approach enhances communication by accommodating diverse linguistic preferences, fostering a more inclusive and user-friendly interaction experience.
+**Proscenium** is an innovative platform designed to break down language barriers in online communication. It serves as a stage to bridge the gap between individuals, ensuring that they can express themselves freely and understand one another, regardless of language differences. With a focus on supporting multilingual chats, Proscenium is built using a powerful tech stack, including TypeScript, ShadnCn, Stripe, Firestore, and NextAuth.
 
-## How we built it
-We opted for a Next.js application coupled with React.js and TypeScript to build the front end, ensuring a robust and dynamic user interface. The seamless integration of these technologies allowed us to create a responsive and user-friendly experience.
+## Features
+
+- **Multilingual Chats**: Proscenium supports communication in more than 10 languages, facilitating seamless conversations for users around the world.
+    
+- **Express Yourself**: Overcome language barriers and express yourself more effectively through text.
+    
+- **Secure and Reliable**: Built with robust technologies like TypeScript, ShadnCn, Stripe, Firestore, and NextAuth, Proscenium ensures a secure and reliable platform for users.
+    
+
+## Tech Stack
+
+- **TypeScript**: Proscenium leverages TypeScript to bring the benefits of static typing to the development process, enhancing code quality and maintainability.
+    
+- **ShadnCn**: ShadnCn is a key component, enhancing Proscenium's natural language processing capabilities, enabling accurate and context-aware communication.
+    
+- **Stripe**: Proscenium integrates Stripe for secure and seamless payment processing, ensuring a smooth user experience.
+    
+- **Firestore**: As a NoSQL document database, Firestore provides scalable and real-time data synchronization, enabling Proscenium to handle dynamic user interactions.
+    
+- **NextAuth**: Proscenium employs NextAuth for authentication, ensuring a secure and user-friendly login experience.
+    
+
+## How Proscenium Differs
+
+### Multilingual Focus
+
+Unlike other platforms, Proscenium puts a strong emphasis on multilingual support. With its advanced language processing capabilities, it enables users to communicate effortlessly in their preferred languages.
+
+### Context-Aware Communication
+
+Proscenium's use of ShadnCn ensures that the platform understands the context of conversations, leading to more accurate and meaningful interactions.
+
+### User-Centric Design
+
+Proscenium is designed with the user in mind, providing an intuitive and enjoyable experience for individuals seeking to overcome language barriers.
+
+### Global Accessibility
+
+With support for more than 10 languages, Proscenium aims to be a globally accessible platform, connecting people from diverse linguistic backgrounds.
+
+## Getting Started
+
+To get started with Proscenium, follow these steps:
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Set up your environment variables.
+4. Run the application using `npm run dev`.
+5. You will also need a `.env` file you are free to explore and configure it by yourself
+
+## Contribute
+
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
 
 ## Application Snapshots
 
@@ -16,11 +66,6 @@ We opted for a Next.js application coupled with React.js and TypeScript to build
 
 #### Chat interface for people depending on the language they choose
 ![dual](https://github.com/anonymousknight07/proscenium/assets/68043860/58efb733-651f-4aeb-9904-02cade61ae10)
-
-
-
-
-On the backend, we harnessed the capabilities of Firebase, employing its versatile features to handle data storage, authentication, and other essential functionalities. The use of Firebase not only streamlined the development process but also ensured a scalable and secure foundation for our application.
 
 ## What's next for Proscenium 
 Our commitment to advancing this application remains unwavering. We believe there is an exciting path ahead, exploring various directions to enhance its capabilities. A few of our prospective plans include:
