@@ -52,14 +52,7 @@ To get started with Proscenium, follow these steps:
 4. Run the application using `npm run dev`.
 5. You will also need a `.env` file you are free to explore and configure it by yourself
 
-## Contribute
-
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
 ## Application Snapshots
-
-## Landing
 
 #### This is the landing page (can toggle between light and dark modes)
 ![landing proscenium](https://github.com/anonymousknight07/proscenium/assets/68043860/046303e3-17fd-44a0-831d-41bb7399c0fb)
@@ -75,6 +68,11 @@ Our commitment to advancing this application remains unwavering. We believe ther
 **Multimedia Support and Chat Experience Enhancements**: Recognizing the evolving nature of communication, we aspire to incorporate multimedia support within the chat, enriching the user experience. This may involve the seamless integration of images, videos, and other multimedia elements. Additionally, we are keen on implementing various improvements to elevate the overall chat experience, ensuring it remains intuitive, engaging, and user-friendly.
 
 **AI-driven Features**: Exploring the integration of AI-driven features, such as smart suggestions, language sentiment analysis, or even real-time translation improvements, can further augment the application's capabilities. These additions aim to provide users with more intelligent and context-aware communication tools.
+
+
+## Contribute
+
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 **Language Expansion**: Considering the diverse linguistic landscape globally, we plan to expand language support, incorporating additional languages to make the application even more inclusive and accessible to a wider user base.
 
